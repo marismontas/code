@@ -208,3 +208,11 @@ body{
 .container.active .toggle-right{
     transform: translateX(200%);
 }
+
+span.eye-icon{
+    position: absolute;
+    right: 50px;
+    transform: translate(0, -40%);
+    top: 60%;
+    cursor: pointer;
+}
